@@ -1,5 +1,18 @@
 # Global Solution 2026 - Monitoramento de Energia Solar Espacial
 
+![Arduino](https://img.shields.io/badge/Arduino-Uno-blue)
+![C++](https://img.shields.io/badge/Linguagem-C%2B%2B-orange)
+
+## Imagem Simulador
+
+![imagem-simulador](img/imagem-simulador.png)
+
+## Vídeo explicativo sobre funcionamento e descrição
+
+Você pode acessar o vídeo através do link:
+
+https://youtu.be/UmH6rhCxhho?si=zkcm2c7tgR16gkIx
+
 ## Descrição do Projeto
 
 Este projeto foi desenvolvido para a Global Solution com o objetivo de explorar uma possível aplicação da Indústria Espacial para a produção e transmissão de energia. A proposta original do grupo consiste na utilização de satélites equipados com painéis solares para captar energia no espaço, onde a incidência solar é mais intensa e constante do que na superfície terrestre. Essa energia seria então transmitida para a Terra por meio de feixes laser direcionados e convertida novamente em eletricidade para utilização pela população.
@@ -87,17 +100,18 @@ https://wokwi.com/projects/466284248373607425
 ## Integrantes
 
 | Nome Completo | RM |
-|---------------|----|---------|
-| Ana Beatriz Santos | RM000000 |
-| Henrique Pagliato | RM000000 |
-| Paloma Cordeiro da Luz | RM000000 |
-| Yasmin de Paiva Gomes | RM000000 |
+|---------------|----|
+| Ana Beatriz Santos | 569087 |
+| Henrique Pagliato | 570914 |
+| Paloma Cordeiro da Luz | 571460 |
+| Yasmin de Paiva Gomes | 572363 |
 
 ---
 ## Onde encontrar o projeto completo
 
 Você pode acessar o código completo através do repositório no GitHub:
 
+https://github.com/AnaSBeaa/gs-edge
 ---
 
 ## Considerações Finais
